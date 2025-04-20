@@ -42,5 +42,5 @@ export async function POST(req: Request) {
         }
     }
 
-    return Response.json({ message: 'Hello , for more info visit here https://github.com/mohitarora8181' }, { status: 200 });
+    return Response.json({ message: 'Hello ,for more info visit here https://github.com/mohitarora8181' }, { status: 200 });
 }
